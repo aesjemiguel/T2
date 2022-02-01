@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Sobre o módulo V"
+permalink: /sobre-o-modulo-5/
 ---
 
 

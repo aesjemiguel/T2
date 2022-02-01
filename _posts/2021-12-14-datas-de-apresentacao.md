@@ -2,13 +2,15 @@
 layout: post
 title:  "Datas de apresentaçãos dos trabalhos"
 ---
+
 1ª parte da apresentação de:
-- [X] DONE  Breno Carmo DEADLINE: <2022-01-24 Mon>
+- [X] DONE  Breno Carmo DEADLINE: <2022-01-24 Mon> 
+
 - [ ] WAITING  Catarina Soares DEADLINE: <2022-01-24 Mon>
 - WAITING  Cátia Magalhães DEADLINE: <2022-01-25 Tue>
 - WAITING  Eliana Gomes DEADLINE: <2022-01-25 Tue>
 - WAITING  Érica Pimentel DEADLINE: <2022-01-26 Wed>
-- DONE  Fabrício Souza DEADLINE: <2022-01-26 Wed>
+- [X] DONE  Fabrício Souza DEADLINE: <2022-01-26 Wed> [O Cristianismo]({{site.baseurl}}/Cristianismo/)
 - WAITING  Flávia Afonso DEADLINE: <2022-01-28 Fri>
 - WAITING  Gabriel Costa DEADLINE: <2022-01-28 Fri>
 - WAITING  Iadine Santos DEADLINE: <2022-02-07 Mon>
