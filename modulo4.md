@@ -8,6 +8,7 @@ O módulo IV é composto pelos seguintes temas:
     - [A Revolução Industrial]({{site.baseurl}}/A-Revolucao-Industrial/)
   - 5.2 A Cidadania Europeia;
     - [A História da EU]({{site.baseurl}}/A-Historia-da-UE/)
+	- [A UE e biodiversidade]({{site.baseurl}}/UE-biodiversidade/)
   - 7.3 O Papel das Organizações Internacionais.
-
+    - [A UNICEF]({{site.baseurl}}/Unicef/)
 

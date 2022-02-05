@@ -5,4 +5,4 @@ _site
 vendor
 *.backup
 .DS_Store
-.org
+*.org
